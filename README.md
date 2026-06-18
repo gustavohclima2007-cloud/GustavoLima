@@ -10,3 +10,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavohclima2007-cloud/GustavoLima/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gustavohclima2007-cloud/GustavoLima/output/snake.svg">
 </picture>
+
+<div> 
+
+  <a href="https://www.linkedin.com/in/gustavo-lima-8b56053b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
