@@ -5,6 +5,8 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gustavo09877?cardType=github&theme=dark&fontFamily=Advent%20Pro&preferLogin=false)](https://git.io/awesome-stats-card)          <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohclima2007-cloud&theme=dark)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavohclima2007-cloud/GustavoLima/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavohclima2007-cloud/GustavoLima/output/snake.svg">
